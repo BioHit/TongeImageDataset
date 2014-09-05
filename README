@@ -1,0 +1,1 @@
+This tongue image data set contains 300 tongue images. All the images in the data set were acquired by our image acquisition device and the image size was 576*768. Manual segmentations were used as the ground truth.
